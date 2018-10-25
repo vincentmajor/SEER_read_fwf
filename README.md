@@ -9,6 +9,13 @@ The gist:
   * The field names, descriptions, start positions and widths.
 * A local file is read with these field positions and names resulting in a tibble.
 
+#### Usage
+
+This is a template, not a package or a function ready to use. To use this script to load one SEER ASCII .txt file:
+* Change the `file_path = <path>` line 31, and
+* Run it!
+
+
 #### Requirements
 
 * R
